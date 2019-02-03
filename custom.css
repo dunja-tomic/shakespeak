@@ -1,0 +1,39 @@
+.custom-button {
+    color: black;
+    background-color: #e5bb50;
+    border-color: #e5bb50;
+}
+
+.custom-button:hover {
+    background-color: #e5bb50;
+    border-color: #e5bb50;
+}
+
+.btn:active{
+    background:#e5bb50;
+}
+
+.custom-words {
+    text-align: center;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+.graffiti-font {
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.body-font {
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+
+.placeholder-nice {
+    font-family: 'Lora', serif;
+    text-align: left;
+}
+
+.a {
+    text-align: center;
+}
