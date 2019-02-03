@@ -7,3 +7,13 @@ As of February 3, 2019, our website is live and can be found at:
 ```
 http://willushakespeak.com/
 ```
+Here are a few web views:
+![image-4](https://github.com/dunjatomic23/shakespeak/blob/master/web-view-1.png)
+![image-5](https://github.com/dunjatomic23/shakespeak/blob/master/web-view-2.png)
+![image-6](https://github.com/dunjatomic23/shakespeak/blob/master/web-view-3.png)
+
+And a couple mobile views:
+
+![image-1](https://github.com/dunjatomic23/shakespeak/blob/master/IMG_4057.PNG)
+![image-2](https://github.com/dunjatomic23/shakespeak/blob/master/IMG_4058.PNG)
+![image-3](https://github.com/dunjatomic23/shakespeak/blob/master/IMG_4059.PNG)
